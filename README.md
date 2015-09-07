@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+James Lamb testing the github, first new commit!
